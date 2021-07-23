@@ -1,0 +1,6 @@
+body{
+    background-color: #C3E7DA;
+}
+.btn:focus{
+    box-shadow: none !important;
+}

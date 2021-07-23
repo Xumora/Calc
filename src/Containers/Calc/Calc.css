@@ -1,0 +1,10 @@
+.calc{
+    border-radius: 20px;
+}
+.sum{
+    height: 130px;
+    flex: 1; 
+    flex-wrap: wrap;
+    flex-shrink: 1;
+}
+p{word-break: break-all;}
